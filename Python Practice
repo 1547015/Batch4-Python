@@ -1,1 +1,14 @@
 
+---Naveen 18/12/2019
+a = [10,20,30,140,60,1,1,1,1,1,1,1]
+b = [30,50,70,80,90]
+# c = a.append(b)
+b=a.count(1)
+print(b)
+--Facing error while trying to get fibonacci series progream
+
+---Executable logic:
+
+
+
+----------------------------------------
